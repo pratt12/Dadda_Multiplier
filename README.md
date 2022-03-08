@@ -29,9 +29,7 @@ The full adder module implementation code.
 
 ## Schematic Representation
 Due to the constraints of Makerchip's acceptance of only one other module other than the top module, the half adders were also implemented using full adder itself. Here is the netlist of the hardware implementation of the verilog code. <br/>
-<img src="https://user-images.githubusercontent.com/69366735/157254193-6f4515f3-37b4-463a-a7f0-d8f52e5d8c4c.png" width="800" height="450"/> <br/>
-
-![netl]()
+<img src="https://user-images.githubusercontent.com/69366735/157254595-aee1220c-815d-43e2-bc9d-eff647f87e37.png" width="800" height="450"/> <br/>
 
 
 ## Simulation Results
