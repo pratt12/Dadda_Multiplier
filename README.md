@@ -21,9 +21,9 @@ This is the reduction methodology as used in the multiplier circuit.
 
 
 ## Implementation
-<img src="https://user-images.githubusercontent.com/69366735/157224636-18c2a8af-174e-471e-ae3d-dae2a640b57e.png" width="300" height="400"/> <br/>
+<img src="https://user-images.githubusercontent.com/69366735/157224636-18c2a8af-174e-471e-ae3d-dae2a640b57e.png" width="600" height="500"/> <br/>
 Code for the multiplier implementation. <br/>
-<img src="https://user-images.githubusercontent.com/69366735/157225283-a7b4453e-85c3-425d-8a62-5c83d2455640.png" width="200" height="300"/> <br/>
+<img src="https://user-images.githubusercontent.com/69366735/157225283-a7b4453e-85c3-425d-8a62-5c83d2455640.png" width="300" height="400"/> <br/>
 
 The full adder module implementation
 
