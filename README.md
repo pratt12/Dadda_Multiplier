@@ -1,5 +1,5 @@
 # Dadda_Multiplier
-The Design, Simulation and Schematic Generation of the 4x4 bit Dadda Multiplier was done as a part of great initiative: [Mixed Signal Hackathon organised by FOSSEE IIT Bombay](https://esim.marathoniitb.in/home). It has been a pain point for semiconductor industry as well as us students, the lack of practice and hands on training projects. The hackathon took place on eSim and Makerchip. 
+The Design, Simulation and Schematic Generation of the 4x4 bit Dadda Multiplier was done as a part of great initiative: [Mixed Signal Hackathon organised by FOSSEE IIT Bombay](https://esim.marathoniitb.in/home). It has been a pain point for semiconductor industry as well as us students, the lack of practice and hands on training projects. The hackathon took place on eSim and Makerchip giving a great exposure for digital hardware design to me. 
 
 
 ## Table of Contents 
