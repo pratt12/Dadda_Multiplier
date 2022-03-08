@@ -28,7 +28,7 @@ The Design, Simulation and Schematic Generation of the 4x4 bit Dadda Multiplier 
 
 ## Acknowledgements 
 [Kunal Ghosh](https://github.com/kunalg123), Co-founder of VLSI System Design (VSD) Corp. Pvt. Ltd. <br />
-[Indian Institute of Technology(IIT),Bombay] (https://www.iitb.ac.in/) <br />
+[Indian Institute of Technology(IIT), Bombay] (https://www.iitb.ac.in) <br />
 [Sumanto Kar, IIT Bombay](https://www.linkedin.com/in/sumanto-kar-0424391a9)
 
 ## Author
