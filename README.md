@@ -32,6 +32,7 @@ Due to the constraints of Makerchip's acceptance of only one other module other 
 ## Simulation Results
 As it can be clearly seen that that the multiplication of 5x3 yields 15. Here Y is in hexadecimal form and as 15 in hexadecimal form is represented as "f"<br/>.
 <img src="https://user-images.githubusercontent.com/69366735/157252074-4b5f42ed-568a-4451-a5b2-5bfd92eb264e.png" width="750" height="450"/> <br/>
+Also in the below simulation: A="d" i.e. 13 in decimal and B="b" i.e. 11 in decimal form whose multiplication yields 143 and Y="8f" is the hexadecimal representation of 143.<br/>
 <img src="https://user-images.githubusercontent.com/69366735/157252088-ad718c9b-cf7e-425e-bc49-11c1d0d86eae.png" width="750" height="450"/> <br/>
 
 
