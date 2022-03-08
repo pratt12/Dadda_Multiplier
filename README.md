@@ -16,12 +16,19 @@ The Design, Simulation and Schematic Generation of the 4x4 bit Dadda Multiplier 
 The speed of multiplier circuits affects the performance of digital systems and so it is very important to develop better algorithms for faster, more efficient processing and Dadda multiplier is one of the fastest ways of implementing a multiplier.Dadda multipliers are generally more gate efficient than their Wallace counterparts
 
 ## Reference Circuit
-<img src="https://user-images.githubusercontent.com/69366735/157222913-00e2bd1b-923e-4bb2-b4fa-275e4dc5b20a.png" width="300" height="400"/>
+<img src="https://user-images.githubusercontent.com/69366735/157222913-00e2bd1b-923e-4bb2-b4fa-275e4dc5b20a.png" width="300" height="400"/> <br/>
+This is the reduction methodology as used in the multiplier circuit. 
 
 
 ## Implementation
+<img src="https://user-images.githubusercontent.com/69366735/157224636-18c2a8af-174e-471e-ae3d-dae2a640b57e.png" width="300" height="400"/> <br/>
+Code for the multiplier implementation. <br/>
+<img src="https://user-images.githubusercontent.com/69366735/157225283-a7b4453e-85c3-425d-8a62-5c83d2455640.png" width="200" height="300"/> <br/>
+
+The full adder module implementation
 
 ## Schematic Representation
+Due to the constraints of Makerchip's acceptance of only one other module other than the top module, the half adders were also implemented using full adder itself.
 
 ## Simulation Results
 
