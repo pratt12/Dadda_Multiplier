@@ -11,6 +11,9 @@ The Design, Simulation and Schematic Generation of the 4x4 bit Dadda Multiplier 
 [Author](#author)<br/>
 [References](#references)
 
+## Introduction
+
+
 
 
 
@@ -31,3 +34,8 @@ The Design, Simulation and Schematic Generation of the 4x4 bit Dadda Multiplier 
 ## Author
 Prateek Sinha: B.Tech(2023) Electrical Engineering at Indian Institute of Technology(IIT), Jammu. <br />
 Email Id: 2019uee0127@iitjammu.ac.in
+
+## References
+1) B. Ramkumar, V. Sreedeep and Harish M Kittur, “A Design Technique for Faster Dadda Multiplier,” IEEE Manuscript,
+2) Muhammad Hussnain Riaz, Syed Adrees Ahmed , Qasim Javaid , Tariq Kamal, “Low Power 4×4 Bit Multiplier Design using Dadda Algorithm and Optimized Full Adder,”.
+3) Addanki Purna Ramesh, “Implementation of Dadda and Array Multiplier Architectures Using Tanner Tool ,” International Journal of Computer Science Engineering Technology (IJCSET)
