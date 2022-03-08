@@ -17,33 +17,28 @@ The speed of multiplier circuits affects the performance of digital systems and 
 
 ## Reference Circuit
 <img src="https://user-images.githubusercontent.com/69366735/157222913-00e2bd1b-923e-4bb2-b4fa-275e4dc5b20a.png" width="300" height="400"/> <br/>
-This is the reduction methodology as used in the multiplier circuit. 
+This is the reduction methodology as used in the multiplier circuit. In this the Dadda reduction technique reduces from 4 partial product to 3 and from 3 to 2 from where we can use the normal addition. The dadda reduction series is consulted for reduction of partial products.
 
 
 ## Implementation
-<img src="https://user-images.githubusercontent.com/69366735/157224636-18c2a8af-174e-471e-ae3d-dae2a640b57e.png" width="700" height="500"/> <br/>
-Code for the multiplier implementation. <br/>
+<img src="https://user-images.githubusercontent.com/69366735/157253804-3c4493f7-066a-43dc-9486-e206de305e37.png" width="700" height="500"/> <br/>
+Code for the multiplier implementation (subsequent reduction in stages and then addition). <br/>
+
 <img src="https://user-images.githubusercontent.com/69366735/157225283-a7b4453e-85c3-425d-8a62-5c83d2455640.png" width="300" height="300"/> <br/>
 The full adder module implementation code.
 
 ## Schematic Representation
-Due to the constraints of Makerchip's acceptance of only one other module other than the top module, the half adders were also implemented using full adder itself.
+Due to the constraints of Makerchip's acceptance of only one other module other than the top module, the half adders were also implemented using full adder itself. Here is the netlist of the hardware implementation of the verilog code. <br/>
+<img src="https://user-images.githubusercontent.com/69366735/157254193-6f4515f3-37b4-463a-a7f0-d8f52e5d8c4c.png" width="800" height="450"/> <br/>
+
+![netl]()
+
 
 ## Simulation Results
 As it can be clearly seen that that the multiplication of 5x3 yields 15. Here Y is in hexadecimal form and as 15 in hexadecimal form is represented as "f"<br/>.
 <img src="https://user-images.githubusercontent.com/69366735/157252074-4b5f42ed-568a-4451-a5b2-5bfd92eb264e.png" width="750" height="450"/> <br/>
 Also in the below simulation: A="d" i.e. 13 in decimal and B="b" i.e. 11 in decimal form whose multiplication yields 143 and Y="8f" is the hexadecimal representation of 143.<br/>
 <img src="https://user-images.githubusercontent.com/69366735/157252088-ad718c9b-cf7e-425e-bc49-11c1d0d86eae.png" width="750" height="450"/> <br/>
-
-
-
-
-
-
-
-
-
-
 
 
 
