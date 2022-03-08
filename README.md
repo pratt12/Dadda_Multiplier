@@ -16,7 +16,7 @@ The Design, Simulation and Schematic Generation of the 4x4 bit Dadda Multiplier 
 The speed of multiplier circuits affects the performance of digital systems and so it is very important to develop better algorithms for faster, more efficient processing and Dadda multiplier is one of the fastest ways of implementing a multiplier.Dadda multipliers are generally more gate efficient than their Wallace counterparts
 
 ## Reference Circuit
-![Dadda-dot-diagram-for-a-4-bit-Wallace-multiplier](https://user-images.githubusercontent.com/69366735/157222913-00e2bd1b-923e-4bb2-b4fa-275e4dc5b20a.png)
+![Dadda-dot-diagram-for-a-4-bit-Wallace-multiplier](img src="https://user-images.githubusercontent.com/69366735/157222913-00e2bd1b-923e-4bb2-b4fa-275e4dc5b20a.png" width="500" height="300"/)
 
 
 ## Implementation
