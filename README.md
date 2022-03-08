@@ -30,8 +30,9 @@ The full adder module implementation code.
 Due to the constraints of Makerchip's acceptance of only one other module other than the top module, the half adders were also implemented using full adder itself.
 
 ## Simulation Results
-As it can be clearly seen that that the multiplication of AxB yields Y. The only slight issue being that Y is in hexadecimal form <img src="https://user-images.githubusercontent.com/69366735/157252074-4b5f42ed-568a-4451-a5b2-5bfd92eb264e.png" width="700" height="300"/> <br/>
-[sim1](https://user-images.githubusercontent.com/69366735/157252088-ad718c9b-cf7e-425e-bc49-11c1d0d86eae.png)
+As it can be clearly seen that that the multiplication of 5x3 yields 15. Here Y is in hexadecimal form and as 15 in hexadecimal form is represented as "f".
+<img src="https://user-images.githubusercontent.com/69366735/157252074-4b5f42ed-568a-4451-a5b2-5bfd92eb264e.png" width="700" height="400"/> <br/>
+<img src="https://user-images.githubusercontent.com/69366735/157252088-ad718c9b-cf7e-425e-bc49-11c1d0d86eae.png" width="700" height="400"/> <br/>
 
 
 
