@@ -24,8 +24,7 @@ This is the reduction methodology as used in the multiplier circuit.
 <img src="https://user-images.githubusercontent.com/69366735/157224636-18c2a8af-174e-471e-ae3d-dae2a640b57e.png" width="700" height="500"/> <br/>
 Code for the multiplier implementation. <br/>
 <img src="https://user-images.githubusercontent.com/69366735/157225283-a7b4453e-85c3-425d-8a62-5c83d2455640.png" width="300" height="300"/> <br/>
-
-The full adder module implementation
+The full adder module implementation code.
 
 ## Schematic Representation
 Due to the constraints of Makerchip's acceptance of only one other module other than the top module, the half adders were also implemented using full adder itself.
