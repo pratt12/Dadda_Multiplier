@@ -6,12 +6,21 @@ The Design, Simulation and Schematic Generation of the 4x4 bit Dadda Multiplier 
 [Introduction](#introduction) <br />
 [Reference Circuit](#reference-circuit) <br />
 [Implementation](#implementataion)<br />
-[Netlist](#netlist)<br />
+[Schematic Representation](#schematic-representation)<br />
+[Simulation Results](#simulation-results) <br/>
 [Acknowledgements](#acknowledgements) <br />
 [Author](#author)<br/>
 [References](#references)
 
 ## Introduction
+
+## Reference Circuit
+
+## Implementation
+
+## Schematic Representation
+
+## Simulation Results
 
 
 
